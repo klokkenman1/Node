@@ -9,7 +9,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}\\myExpressApp\\bin\\www"
+            "program": "${workspaceFolder}\\bin\\www"
         }
     ]
 }
