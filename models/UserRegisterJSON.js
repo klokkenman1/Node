@@ -6,3 +6,5 @@ class UserRegisterJSON {
         this.password = password;
     }
 }
+
+module.exports = UserRegisterJSON;

@@ -4,3 +4,5 @@ class UserLoginJSON {
         this.password = password;
     }
 }
+
+module.exports = UserLoginJSON;

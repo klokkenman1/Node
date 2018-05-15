@@ -4,3 +4,5 @@ class ValidToken {
         this.email = email;
     }
 }
+
+module.exports = ValidToken;
